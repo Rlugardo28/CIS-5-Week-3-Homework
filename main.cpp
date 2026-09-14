@@ -68,13 +68,13 @@ int main() {
   return 0;
 }
 
-//I was able to elanr to write this code assigning values I had two double commands but changed it to float as they are both able to run values within the decimal range.
+//I was able to learn to write this code assigning values I had two double commands but changed it to float as they are both able to run values within the decimal range.
 
 
 
 
 
-//warning: multi-character character constant [-Wmultichar]                                                                                //wouldnot compile - char is only able to gold one value althought program runs it shows the intial at 0
+//warning: multi-character character constant [-Wmultichar]                                                                                //wouldnot compile - char is only able to hold one value althought program runs it shows the intial at 0
 // 33 |   char intial = '20'
 //main.cpp: In function ‘int main()’:
 //main.cpp:33:17: warning: overflow in conversion from ‘int’ to ‘char’ changes value from ‘12848’ to ‘48’ [-Woverflow]
